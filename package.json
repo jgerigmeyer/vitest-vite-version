@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "vite": "^4.4.9"
+  },
+  "devDependencies": {
+    "vitest": "^0.34.4"
+  },
+  "packageManager": "yarn@3.6.3"
+}
